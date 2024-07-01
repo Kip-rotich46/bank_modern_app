@@ -1,0 +1,17 @@
+.BoardContainer{
+    display: flex;
+    flex-direction: row;
+}
+
+.BoardTitle{
+    font-weight: bold;
+
+}
+
+
+.ImageGrid img{
+    display: flex;
+    flex-direction: row;
+    width: 100;
+   
+}

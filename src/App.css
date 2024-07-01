@@ -1,0 +1,20 @@
+*{
+  background-color: #F1F4F9;  
+  margin: 0;
+  padding: 0;
+}
+
+.App{
+  text-align: center;
+  background-color: #F1F4F9;
+}
+
+.container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  margin-Bottom: '40px';
+  width: '100%';
+  max-Width: '1200px';
+}
